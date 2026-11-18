@@ -1,0 +1,5 @@
+.claude/
+node_modules/
+Screen_Recording_*.mp4
+.DS_Store
+Thumbs.db
